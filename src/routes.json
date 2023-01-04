@@ -1,0 +1,17 @@
+{
+    "routes": [{
+        "name": "home",
+        "path": "/",
+        "component": "my-home"
+    },
+    {
+        "name": "project",
+        "path": "/project",
+        "component": "my-project"
+    },
+    {
+        "name": "organization",
+        "path": "/organization",
+        "component": "my-organization"
+    }]
+  }
